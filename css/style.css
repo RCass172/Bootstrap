@@ -1,0 +1,108 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.jumbo-header {
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: white;
+}
+
+.jumbotron small {
+    color: white;
+    font-size: 55%;
+}
+
+
+.thead-da th {
+    background-color: #f8f9fa;
+}
+
+.alert-container {
+    padding: 0;
+    margin-bottom: -16px;
+}
+
+.callout-container {
+    height: 100vh;
+    background: url(../images/bg.jpg) no-repeat bottom right fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.feature-container {
+    background-color: #e9ecef;
+    margin-bottom: 20px;
+}
+
+.lead mark {
+    background-color: #e9ecef;
+}
+
+.btn-call {
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.btn-call:hover,
+.btn-call:active {
+    background-color: red;
+    color: white;
+}
+
+
+.block-divide {
+    background-color: #e9ecef;
+}
+
+.page-header {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.media {
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+.features hr {
+    background-color: white;
+}
+
+.feature {
+    text-align: center;
+}
+
+.feature i {
+    margin-bottom: 20px;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.social-networks{
+    text-align: center;
+
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    color: #3a3a3a;
+}
